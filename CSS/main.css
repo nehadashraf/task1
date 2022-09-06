@@ -1,0 +1,11 @@
+
+body {
+border-right: 1px solid rgba(0, 0, 0, .5);
+border-left: 1px solid rgba(0, 0, 0, .5);
+margin: 0px 450px;
+padding: 0px 20px;
+}
+th,td, caption{
+    border: 1px solid;
+    padding: 10px;
+}
